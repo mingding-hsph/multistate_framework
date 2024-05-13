@@ -1,4 +1,5 @@
 ##Author of R code: Ming Ding
+
 ##Citation: Ming Ding, Haiyi Chen, Feng-Chang Lin, "A Multi-state Non-Markov Framework to Estimate Progression of Chronic Disease", which is available at https://www.medrxiv.org/content/10.1101/2024.02.15.24302901v1.full.pdf.
 
 ##simu.data1.constant.markov.R: Simulate markov data with exponential distribution
