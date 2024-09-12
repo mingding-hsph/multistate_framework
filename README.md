@@ -23,3 +23,12 @@
 ##simu.model.nonmarkov.R: Estimate parameters from data 1-4  using  non-Markov model
 
 ##simu.comparison.theoritical.R: Compare estimated to theortical parameters to obtain coverage, power, and MSE.
+
+
+##09.12.2024
+
+##simu.model.markov.CSC.R1.R: Estimate parameters from data 1-4 using Markov model
+
+##simu.model.nonmarkov.CSC.R1.R: Estimate parameters from data 1-4 using non-Markov model
+
+##simu.comparison.theoritical.R1.R: Compare estimated to theortical parameters to obtain coverage, power, and MSE.
