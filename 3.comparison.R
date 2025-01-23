@@ -30,11 +30,11 @@ con.mar_t5 = stringr::str_sort(list.files(pattern="TR_t5_.*txt", path="./R2.data
 
 
 
-con.mar_nonmar_t1 = stringr::str_sort(list.files(pattern="TR_t1_.*txt", path="/nas/longleaf/home/mingding/paper1.simu/5k.markov.data/non.markov.model/", full.names=TRUE), num = TRUE)
-con.mar_nonmar_t2 = stringr::str_sort(list.files(pattern="TR_t2_.*txt", path="/nas/longleaf/home/mingding/paper1.simu/5k.markov.data/non.markov.model/", full.names=TRUE), num = TRUE)
-con.mar_nonmar_t3 = stringr::str_sort(list.files(pattern="TR_t3_.*txt", path="/nas/longleaf/home/mingding/paper1.simu/5k.markov.data/non.markov.model/", full.names=TRUE), num = TRUE)
-con.mar_nonmar_t4 = stringr::str_sort(list.files(pattern="TR_t4_.*txt", path="/nas/longleaf/home/mingding/paper1.simu/5k.markov.data/non.markov.model/", full.names=TRUE), num = TRUE)
-con.mar_nonmar_t5 = stringr::str_sort(list.files(pattern="TR_t5_.*txt", path="/nas/longleaf/home/mingding/paper1.simu/5k.markov.data/non.markov.model/", full.names=TRUE), num = TRUE)
+con.mar_nonmar_t1 = stringr::str_sort(list.files(pattern="TR_t1_.*txt", path="./non.markov.model/", full.names=TRUE), num = TRUE)
+con.mar_nonmar_t2 = stringr::str_sort(list.files(pattern="TR_t2_.*txt", path="./non.markov.model/", full.names=TRUE), num = TRUE)
+con.mar_nonmar_t3 = stringr::str_sort(list.files(pattern="TR_t3_.*txt", path="./non.markov.model/", full.names=TRUE), num = TRUE)
+con.mar_nonmar_t4 = stringr::str_sort(list.files(pattern="TR_t4_.*txt", path="./non.markov.model/", full.names=TRUE), num = TRUE)
+con.mar_nonmar_t5 = stringr::str_sort(list.files(pattern="TR_t5_.*txt", path="./non.markov.model/", full.names=TRUE), num = TRUE)
 
 
 ps_start=1
