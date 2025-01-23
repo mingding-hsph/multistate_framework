@@ -5,18 +5,22 @@
 ##Theortical_data_markov.R
 ##Theortical_data_semimarkov.R
 ##Theortical_data_nonmarkov.R
-Calculate theortical parameters used for simulation
+
+Step 1. Calculate theortical parameters used for simulation
 
 ##simu.data.markov.R
 ##simu.data.nonmarkov.R
 ##simu.data.semimarkov.R 
-Simulate data
+
+Step 2. Simulate multi-state data
 
 ##simu.model.markov.R
 ##simu.model.nonmarkov.R
 ##simu.model.semimarkov.R 
-Estimate parameters using our multi-state modeling framework
+
+Step 3. Estimate parameters using our multi-state modeling framework
 
 ##simu.comparison.R
-Compare estimated to theortical parameters to obtain coverage, power, and MSE.
+
+Step 4. Compare estimated to theortical parameters to obtain coverage, power, and MSE.
 
