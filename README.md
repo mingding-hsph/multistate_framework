@@ -22,5 +22,5 @@ Step 3. Estimate parameters using our multi-state modeling framework
 
 ##simu.comparison.R
 
-Step 4. Compare estimated to theortical parameters to obtain coverage, power, and MSE.
+Step 4. Compare estimated to theortical parameters to obtain coverage, 95% CI, and MSE.
 
