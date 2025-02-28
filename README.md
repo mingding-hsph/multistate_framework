@@ -1,6 +1,6 @@
 ##Author of R code: Ming Ding
 
-##Citation: Ming Ding, Haiyi Chen, Feng-Chang Lin, "A Multi-state Non-Markov Framework to Estimate Progression of Chronic Disease", which is available at https://www.medrxiv.org/content/10.1101/2024.02.15.24302901v1.full.pdf.
+##Citation: Ming Ding, Haiyi Chen, Feng-Chang Lin. A Multi-state Non-Markov Framework to Estimate Progression of Chronic Disease. BMC Medical Research Methodology (2025) 25:54 
 
 Step 1. Calculate theortical parameters used for simulation
 ##Theortical_data_markov.R
